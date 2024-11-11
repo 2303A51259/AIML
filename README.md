@@ -1,6 +1,6 @@
 AIML
 
-1.https://github.com/2303A51259/AIML/blob/main/Lab1_py.ipynb
+1.https://github.com/2303A51259/AIML/blob/main/AIML_A1.ipynb
 
 2.https://github.com/2303A51259/AIML/blob/main/AIML_A2.ipynb
 
